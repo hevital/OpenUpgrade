@@ -89,7 +89,7 @@ Why migrate to a more recent major version
 In short, not migrating your Odoo instance to a recent version means increasing
 `your technical debt <https://en.wikipedia.org/wiki/Technical_debt>`_.
 
-For more information, see `Daniel Reis' presentation <https://www.youtube.com/watch?v=u7_k8lCZeY0>`_ on the benefits of migration.
+For more information, see `OCA presentations <https://www.youtube.com/watch?v=WF-BaukCGPs&list=PLRaJ_rIFxm3t6nLStE89Selv597xgvybW>`_ on the benefits of migration and how to manage upgrades.
 
 Alternative to Openupgrade
 --------------------------
